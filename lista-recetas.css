@@ -1,0 +1,28 @@
+.titulorecetas{
+    font-family: 'Lobster', cursive;
+    text-align: center;
+    font-size: 4rem;
+    color: red;
+    margin-left: 0;
+}
+.div-item{
+    display: flex;
+    justify-content: center;
+
+}
+.listarecetas {
+    display:flexbox;
+    background-color: white;
+    color: black;
+}
+.itemreceta{
+    color: black;
+    font-size: 1.5rem;
+    text-decoration: none;
+    font-family: 'Lobster', cursive;
+}
+ul {
+    list-style-type: none;
+    padding-left: 0px;
+    text-align: center;
+}

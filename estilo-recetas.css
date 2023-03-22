@@ -1,0 +1,39 @@
+.plato, .preparacion{
+    text-align: left;
+    display:block;
+    margin: 0 25%;
+    font-size: 1.6rem;
+    font-family: 'Times New Roman', Times, serif;
+}
+.preparacion{
+    margin-bottom: 6rem;
+}
+h2{
+    color: red;
+}
+.parrafo{
+    margin: 0px 0px 25px;
+}
+.cuadro-section{
+    margin: 0% 33%; 
+    background-color: red;
+    padding: 2rem 10rem;
+}
+
+.texto-bienvenida{
+    margin: 0;
+    font-size: 2rem;
+    font-family: 'Pacifico', cursive;
+}
+
+.todo{
+    padding-top: 10rem;
+    padding-bottom: 20rem;
+    background-image: url("fondo.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+.img-pastel{
+    width: 100%;
+}

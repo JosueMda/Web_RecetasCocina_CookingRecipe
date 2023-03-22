@@ -1,0 +1,36 @@
+.div-titulo{
+    margin-top: 3rem;
+}
+.titulo{
+    font-family: 'Lobster', cursive;
+    font-size: 4rem;
+    text-align: center;
+}
+.redes{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 3rem;
+    margin-bottom: 3rem;
+}
+.divform{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 4rem;
+}
+.formulario{
+    text-align: center;
+    font-family: 'Lobster', cursive;
+}
+h2{
+    font-family: 'Lobster', cursive;
+    text-align: center;
+    font-size: 2rem;
+}
+.botonenviar{
+    font-size: 1.3rem;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    border-radius: 0.3rem;
+    border-color: red;
+    background-color: red;
+    color: white;
+}

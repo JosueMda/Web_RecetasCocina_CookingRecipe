@@ -1,0 +1,12 @@
+.texto-bienvenida{
+    text-align: center;
+    font-size: 3rem;
+    font-family: 'Pacifico', cursive;
+}
+.titulo{
+    margin-bottom: 0px;
+}
+.fotohome{
+    display: flex;
+    justify-content: center;
+}
